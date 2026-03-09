@@ -1,0 +1,16 @@
+#browser automation (run JS-heavy web apps, simulate user interaction)
+playwright
+
+#html parsing & scraping
+beautifulsoup4
+lxml
+
+#data analysis & table handling
+pandas
+odfpy
+
+#html parser for pandas
+html5lib
+
+#juputer notebook support
+ipykernel
