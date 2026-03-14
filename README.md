@@ -76,8 +76,8 @@ Configuration
 
 Fixes / Known Issues
 -------------------
-1. The downloaded Excel file may not save correctly to `data/download/` and could default to the `scripts/` directory.
-2. Currently, opening the downloaded Excel file may throw a formatting error; the file may not be properly structured.
+1. The downloaded Excel file may not save correctly to `data/download/` and could default to the `scripts/` directory.(Fixed as of 3/9/2026)
+2. Currently, opening the downloaded Excel file may throw a formatting error; the file may not be properly structured. (Fixed as of 3/9/2026)
 
 Next Steps
 ----------
